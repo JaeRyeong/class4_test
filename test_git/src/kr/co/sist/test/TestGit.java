@@ -6,6 +6,7 @@ public class TestGit {
 		System.out.println("GIT HUB 연습");
 		System.out.println("수정수정수정");
 		//adfdasfdasfdasfsadfdsfasd
+		//123456789012345
 	}//main
 
 }//class
